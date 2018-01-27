@@ -26,3 +26,6 @@ hs_err_pid*
 logic-executor.iml
 
 target/
+
+*~
+.DS_Store
