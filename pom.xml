@@ -4,11 +4,11 @@
 
     <groupId>in.adavi.pradyot</groupId>
     <artifactId>logic-executor</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <name>logic-executor</name>
-    <description>A dropwizard bundle for rate limiting APIs</description>
+    <description>An executor to execute business logical of a service</description>
     <url>https://github.com/pradyothadavi/logic-executor</url>
 
     <licenses>
